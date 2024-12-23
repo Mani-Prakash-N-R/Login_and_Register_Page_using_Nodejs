@@ -136,7 +136,7 @@ Ensure the following are installed:
 ## 📝 **Conclusion**
 The **Login and Register Page** using Node.js provides a secure authentication system with JWT and bcrypt.js for password hashing. This project serves as a foundational structure for any web application requiring secure user authentication.
 
----
+
 
 ## 📢 **Disclaimer**
 Ensure sensitive user data (email, password) is handled securely with HTTPS connections and proper token expiration management.
